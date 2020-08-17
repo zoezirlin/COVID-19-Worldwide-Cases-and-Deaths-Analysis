@@ -1,4 +1,4 @@
-# 🗣 COVID-19 Worldwide Analytics: Data from Our World in Data
+# COVID-19 Worldwide Analytics: Data from Our World in Data
 ## https://github.com/owid/covid-19-data/tree/master/public/data
 
 # RQ1: is there a correlation between pop. 65+ and pop. 70+ in terms of total deaths?
